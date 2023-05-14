@@ -8,7 +8,7 @@ const SignInButton = () => {
 	return (
 		<>
 		{session ? (
-				<button onClick={() =>signOut()}> Sign Out </button>
+				<button onClick={() =>signOut()} className="test-black"> Sign Out </button>
 			) : (
 				<button onClick={() => signIn()}> Sign In</button>
 				)}
