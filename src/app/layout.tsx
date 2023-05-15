@@ -12,10 +12,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <Provider>
         <Header/>
         <Banner/>
         <BlogList/>
-        <Provider>
           {children}
         </Provider>
       </body>
