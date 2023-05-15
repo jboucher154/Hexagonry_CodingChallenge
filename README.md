@@ -4,9 +4,9 @@ This project was developed for the Spring 2023 Coding Challenge for Hive Helsink
 
 ## Creators
 
-[João Nascimento] (https://github.com/nascimento-jgb)
-[Lucas Eklund] (https://github.com/LuEklund)
-[Jenny Boucher] (https://github.com/jboucher154)
+[João Nascimento](https://github.com/nascimento-jgb)
+[Lucas Eklund](https://github.com/LuEklund)
+[Jenny Boucher](https://github.com/jboucher154)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
