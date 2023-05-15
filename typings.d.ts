@@ -3,6 +3,7 @@ export type Profile = {
 	name: string;
 	username: string;
 	email: string;
+	img_link: string;
 	address: {
 	  street: string;
 	  suite: string;
