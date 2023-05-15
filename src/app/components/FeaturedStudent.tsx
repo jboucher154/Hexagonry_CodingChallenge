@@ -15,7 +15,7 @@ const FeaturedStudent = () => {
 	useEffect(() => {
 		const profile = getRandomProfile();
 		setFeatured(profile);
-	}, [])
+	});
 	return (
 		<section>
 			<div>
