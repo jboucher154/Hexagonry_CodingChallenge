@@ -5,6 +5,7 @@ All the team members were new to webdev so we set a pretty big challenge for our
 We had hoped to integrate the 42 Network API using NextAuth.js, however our end product sues a local JSON file to mimic our handling of data.
 
 Overall we are happy with what we learned from engaging with this challenge.
+
 Our key learnings are: 
 
 - Working on project as team
@@ -26,7 +27,7 @@ Our key learnings are:
 
 ## Technologies
 
-This is a [Next.js](https://nextjs.org/) v13 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+- This is a [Next.js](https://nextjs.org/) v13 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
 - NextAuth.js was used to set up authentication through the 42 School Network API (incomplete)
 
