@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "name": "Lucas",
+      "username": "Lucas_42",
+      "email": "lucas42@example.com",
+      "address": {
+        "street": "42 Avenue",
+        "suite": "Apt. 42",
+        "city": "Paris",
+        "zipcode": "75001",
+        "geo": {
+          "lat": "48.8566",
+          "lng": "2.3522"
+        }
+      },
+      "phone": "123-456-7890",
+      "website": "lucas42.com",
+      "company": {
+        "name": "42 Network",
+        "catchPhrase": "Revolutionizing Tech Education",
+        "bs": "peer-to-peer learning"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jenny",
+      "username": "Jenny_42",
+      "email": "jenny42@example.com",
+      "address": {
+        "street": "42 Street",
+        "suite": "Apt. 24",
+        "city": "Fremont",
+        "zipcode": "94536",
+        "geo": {
+          "lat": "37.5485",
+          "lng": "-121.9886"
+        }
+      },
+      "phone": "098-765-4321",
+      "website": "jenny42.com",
+      "company": {
+        "name": "42 Network",
+        "catchPhrase": "Peer-to-Peer Pedagogy",
+        "bs": "project-based learning"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Joao",
+      "username": "Joao_42",
+      "email": "joao42@example.com",
+      "address": {
+        "street": "42 Boulevard",
+        "suite": "Apt. 84",
+        "city": "Lisbon",
+        "zipcode": "1000",
+        "geo": {
+          "lat": "38.7223",
+          "lng": "-9.1393"
+        }
+      },
+      "phone": "321-654-9870",
+      "website": "joao42.com",
+      "company": {
+        "name": "42 Network",
+        "catchPhrase": "Innovative Tech Education",
+        "bs": "peer learning"
+      }
+    }
+  ]
