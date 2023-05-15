@@ -1,9 +1,10 @@
-import ProfileList from "./ProfileList"
+import ProfileList from "./ProfileList";
 
-export default function Profiles() {
-
+function Profile()
+{
 	return <div>
-		{/* @ts-ignore */}
-		<ProfileList />
+		<ProfileList/>
 	</div>
 }
+
+export default Profile;
