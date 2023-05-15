@@ -1,22 +1,33 @@
 import React from "react";
 import Link from "next/link"
-import { Profile } from "../../../typings"
+import Profile from '../../../info.json'
 
-const fetchProfiles = async () => {
-	const res = await fetch("https://jsonplaceholder.typicode.com/users");
-	const profiles: Profile[] = await res.json();
-	return profiles;
+function ProfileList() {
+	return (
+			<div className="Profile">
+			{
+				Profile.map( profile => {
+					return(
+						<div className="box" key={ profile.id}>
+						{profile.name}
+						<Link href={`/profiles/${profile.id}`}>Profile: {profile.name}</Link>
+						</div>
+					)
+			})
+			}
+			</div>
+		);
 }
 
-async function ProfileList() {
-	const profiles = await fetchProfiles()
-	return <>
-		{profiles.map((profile) => (
-			<p key={profile.id}>
-				<Link href={`/profiles/${profile.id}`}>Profile: {profile.name}</Link>
-			</p>
-		))}
-	</>;
-}
+
+// async function ProfileList() {
+// 	return <>
+// 		{profiles.map((profile) => (
+// 			<p key={profile.id}>
+// 				<Link href={`/profiles/${profile.id}`}>Profile: {profile.name}</Link>
+// 			</p>
+// 		))}
+// 	</>;
+// }
 
 export default ProfileList

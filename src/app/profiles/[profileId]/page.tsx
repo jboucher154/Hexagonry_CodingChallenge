@@ -1,4 +1,4 @@
-import { Profile } from "../../../../typings"
+import Profile from '../../../../info.json'
 
 type PageProps = {
 	params: {
@@ -7,14 +7,13 @@ type PageProps = {
 };
 
 const fetchProfile = async (profileId: string) => {
-	const res = await fetch(`https://jsonplaceholder.typicode.com/users/${profileId}`);
-	const profile: Profile = await res.json();
-	return profile;
+    const profile = Profile[parseInt(profileId) - 1];
+	// const profile = Profile.find(profile => profile.id === parseInt(profileId));
+    return profile;
 };
 
 async function ProfilePage({params: { profileId } }: PageProps) {
 	const profile = await fetchProfile(profileId);
-	// profile.name = "NewPerson";
 
 	return (
 		<div>
