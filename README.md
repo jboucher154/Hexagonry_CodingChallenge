@@ -2,7 +2,7 @@
 
 This project was developed for the Spring 2023 Coding Challenge for Hive Helsinki students. 
 All the team members were new to webdev so we set a pretty big challenge for ourselves. We were able to render a simple website for our student association, with pages to view student profiles and blog posts.
-We had hoped to integrate the 42 Network API using NextAuth.js, however our end product sues a local JSON file to mimic our handling of data.
+We had hoped to integrate the 42 Network API using NextAuth.js, however our end product uses a local JSON file to mimic our handling of data.
 
 Overall we are happy with what we learned from engaging with this challenge.
 
