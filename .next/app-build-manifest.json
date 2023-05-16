@@ -5,23 +5,33 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/post/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/post/layout.css",
-      "static/chunks/app/post/layout.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/post/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/post/page.js"
+    ],
     "/profiles/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/profiles/layout.css",
       "static/chunks/app/profiles/layout.js"
+    ],
+    "/post/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/post/layout.css",
+      "static/chunks/app/post/layout.js"
+    ],
+    "/post2/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/post2/page.js"
     ],
     "/profiles/page": [
       "static/chunks/webpack.js",
@@ -40,30 +50,20 @@
       "static/css/app/post3/layout.css",
       "static/chunks/app/post3/layout.js"
     ],
-    "/post3/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/post3/page.js"
-    ],
     "/signin/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/signin/page.js"
     ],
-    "/post/page": [
+    "/post3/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/post/page.js"
+      "static/chunks/app/post3/page.js"
     ],
     "/unauthorized/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/unauthorized/page.js"
-    ],
-    "/post2/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/post2/page.js"
     ]
   }
 }
