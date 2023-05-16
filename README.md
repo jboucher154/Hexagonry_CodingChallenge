@@ -45,6 +45,17 @@ Project Assests sourced from the follwoing:
 
 - Styling Elements: https://flowbite.com/
 
+## Planning Process
+
+- Excalidraw - for planning board (use excalidraw extension for vscode to view)
+ Initial Plan:
+
+ ![](Initial_planning.png)
+
+ Rescoped plan: 
+
+ ![](Rescoping_plan.png)
+
 
 ## Getting Started (create-next-app auto generated instructions)
 
