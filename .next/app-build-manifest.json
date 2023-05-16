@@ -5,11 +5,32 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/layout": [
+    "/post2/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/app/post2/page.js"
+    ],
+    "/post3/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/post3/layout.css",
+      "static/chunks/app/post3/layout.js"
+    ],
+    "/post3/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/post3/page.js"
+    ],
+    "/post/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/post/layout.css",
+      "static/chunks/app/post/layout.js"
+    ],
+    "/post/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/post/page.js"
     ],
     "/post2/layout": [
       "static/chunks/webpack.js",
@@ -17,21 +38,22 @@
       "static/css/app/post2/layout.css",
       "static/chunks/app/post2/layout.js"
     ],
-    "/post2/page": [
+    "/profiles/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/post2/page.js"
+      "static/css/app/profiles/layout.css",
+      "static/chunks/app/profiles/layout.js"
     ],
-    "/post/layout": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/post/layout.js",
-      "static/css/app/post/layout.css"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
-    "/post/page": [
+    "/profiles/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/post/page.js"
+      "static/chunks/app/profiles/page.js"
     ]
   }
 }

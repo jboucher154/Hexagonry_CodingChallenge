@@ -1,11 +1,11 @@
 import Link from "next/link";
 import Image from "next/image";
-import JoaoProfilePic from "../../../resources/users/images/jonascim.jpg"
-import JennyProfilePic from "../../../resources/users/images/jebouche.jpg"
-import LucasProfilePic from "../../../resources/users/images/leklund.jpg"
-import Post1Pic from "../../../resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
-import Post2Pic from "../../../resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg"
-import Post3Pic from "../../../resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg"
+import JoaoProfilePic from "/public/resources/users/images/jonascim.jpg"
+import JennyProfilePic from "/public/resources/users/images/jebouche.jpg"
+import LucasProfilePic from "/public/resources/users/images/leklund.jpg"
+import Post1Pic from "/public/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
+import Post2Pic from "/public/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg"
+import Post3Pic from "/public/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg"
 
 function BlogList()
 {

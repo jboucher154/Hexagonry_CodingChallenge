@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import HXGLogo from '../../../resources/images/hexagon_logo_black.png'
+import HXGLogo from '/public/resources/images/hexagon_logo_black.png'
 
 function Header() {
 	return (
@@ -10,7 +10,7 @@ function Header() {
 				<Link href="http://localhost:3000" className='cursor-pointer group-hover:scale-105
 					transition-transform duration-200 ease-out'>
 					<Image
-					src={ HXGLogo } //insert here the link for the image
+					src = { HXGLogo } //insert here the link for the image
 					width={50}
 					height={50}
 					className="rounded-full"

@@ -2,8 +2,8 @@
 // import PortableText from "react-portable-text";
 import Image from "next/image"
 import {useForm} from "react-hook-form"
-import Post3Pic from "../../../resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg"
-import LucasProfilePic from "../../../resources/users/images/leklund.jpg"
+import Post3Pic from "/public/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg"
+import LucasProfilePic from "/public/resources/users/images/leklund.jpg"
 import Footer from "../components/Footer";
 
 interface FormInputData {
