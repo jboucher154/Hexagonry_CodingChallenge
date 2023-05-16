@@ -57,6 +57,12 @@ Project Assests sourced from the follwoing:
 
  ![](Rescoping_plan.png)
 
+## Usage Note
+
+- run `npm install` inside of the repository after cloning
+
+- not included in rpoject files is the `.env.local` file that contains the API key for the 42 School API we attempted to setup. This may mean the files contained in `/src/app/api` may need to be excluded from the project
+
 
 ## Getting Started (create-next-app auto generated instructions)
 
