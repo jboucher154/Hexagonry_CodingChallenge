@@ -1,6 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HexagonRy Coding Challenge
 
-## Getting Started
+This project was developed for the Spring 2023 Coding Challenge for Hive Helsinki students. 
+All the team members were new to webdev so we set a pretty big challenge for ourselves. We were able to render a simple website for our student association, with pages to view student profiles and blog posts.
+We had hoped to integrate the 42 Network API using NextAuth.js, however our end product sues a local JSON file to mimic our handling of data.
+
+Overall we are happy with what we learned from engaging with this challenge.
+
+Our key learnings are: 
+
+- Working on project as team
+- Adjusting project scope
+- Complexity of working with APIs
+- Installing and setting up evironment for Next.js project
+- Styling with Tailwind
+- Creating and using React components
+- Using React hooks
+
+## Creators
+
+[João Nascimento](https://github.com/nascimento-jgb)
+
+[Lucas Eklund](https://github.com/LuEklund)
+
+[Jenny Boucher](https://github.com/jboucher154)
+
+
+## Technologies
+
+- This is a [Next.js](https://nextjs.org/) v13 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+
+- NextAuth.js was used to set up authentication through the 42 School Network API (incomplete)
+
+- TypeScript
+
+- TailwindCSS
+
+## Assets
+
+Project Assests sourced from the follwoing:
+
+- User Images: Diego James Photography
+
+- Site Images: unsplash.com, pexels.com
+
+- Styling Elements: https://flowbite.com/
+
+## Planning Process
+
+- Excalidraw - for planning board (use excalidraw extension for vscode to view)
+
+ Initial Plan:
+
+ ![](Initial_planning.png)
+
+ Rescoped plan: 
+
+ ![](Rescoping_plan.png)
+
+
+## Getting Started (create-next-app auto generated instructions)
 
 First, run the development server:
 
@@ -14,11 +72,9 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Learn More about Next.js
 
 To learn more about Next.js, take a look at the following resources:
 
