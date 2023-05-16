@@ -11,7 +11,7 @@ const getRandomProfile = () => {
 
 const FeaturedStudent = () => {
 	const [featured, setFeatured] = useState<Profile | null>(null);
-	
+
 	useEffect(() => {
 		const profile = getRandomProfile();
 		setFeatured(profile);
