@@ -1,6 +1,10 @@
 "use client" //NEEEED TO BE FIXED DONT FORGET IT!!!!
 // import PortableText from "react-portable-text";
 import {useForm} from "react-hook-form"
+import Image from "next/image"
+import JoaoProfilePic from "../../../resources/users/images/jonascim.jpg"
+import PostBanner from "../../../resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
+import Footer from "../components/Footer";
 
 interface FormInputData {
 	name: string;
@@ -16,16 +20,20 @@ function Post()
 
 	return(
 		<main>
-			<img className="w-full h-40 object-cover"
-				 src=""
+			<Image className="w-full h-40 object-cover"
+				 src= {PostBanner}
+				 width = {12000}
+				 height = {40}
 				 alt=""/>
 			<article className="max-w-3xl mx-auto">
 				<h1 className="text-3xl mt-10 mb-3 text-black">Thats my title</h1>
 				<h2 className="text-xl font-light text-gray-500 mb-2">Here it goes our post description</h2>
 
 				<div className="flex items-center space-x-2">
-					<img className="h-10 w-10 rounded-full"
-						 src=""
+					<Image className="h-10 w-10 rounded-full"
+						 src= {JoaoProfilePic}
+						 height={10}
+						 width = {10}
 						 alt=""/>
 					<p className="font font-extralight text-sm text-black">
 						Blog post by <span className="text-orange-500">Joao</span> - Published at{" "}
@@ -60,7 +68,7 @@ function Post()
 				</div> */}
 			</article>
 
-			<hr className="border-[#F7AB0A] mb-10" />
+			<hr className="border-[#F7AB0A] mb-10 mt-8" />
 
 			<form className="flex flex-col p-5 max-w-2xl mx-auto mb-10">
 				<h3 className="text-sm text-orange-500">Enjoyed this post?</h3>
@@ -120,6 +128,7 @@ function Post()
 				rounded focus:shadow-outline focus:outline-none font-bold py-2 px-4
 				cursor-pointer"/>
 			</form>
+			<Footer/>
 		</main>
 	)
 }

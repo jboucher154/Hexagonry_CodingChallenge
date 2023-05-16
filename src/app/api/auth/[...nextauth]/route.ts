@@ -57,7 +57,7 @@ const authOptions = {
 	providers: [
 		FortyTwoProvider({
 			clientId: process.env.FORTY_TWO_CLIENT_ID as string,
-			clientSecret: process.env.FORTY_TWO_CLIENT_SECRET as string	
+			clientSecret: process.env.FORTY_TWO_CLIENT_SECRET as string
 		})
 	],
 	pages: {

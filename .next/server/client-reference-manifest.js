@@ -742,6 +742,412 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "name": "",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/images/hexagon_logo_black.png": {
+      "*": {
+        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+        "name": "",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/users/images/jebouche.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/users/images/jonascim.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
+        "name": "",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./resources/users/images/leklund.jpg": {
+      "*": {
+        "id": "(sc_client)/./resources/users/images/leklund.jpg",
+        "name": "*",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./resources/users/images/leklund.jpg",
+        "name": "",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./resources/users/images/leklund.jpg",
+        "name": "default",
+        "chunks": [
+          "app/post3/page:static/chunks/app/post3/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/post3/layout:static/chunks/app/post3/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/post3/layout:static/chunks/app/post3/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/post3/layout:static/chunks/app/post3/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/SignInButton.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/components/Provider.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/components/Provider.tsx",
@@ -768,408 +1174,54 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg": {
+    "(app-client)/./src/app/post3/page.tsx": {
       "*": {
-        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "id": "(sc_client)/./src/app/post3/page.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/post3/page:static/chunks/app/post3/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "id": "(sc_client)/./src/app/post3/page.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/post3/page:static/chunks/app/post3/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+        "id": "(sc_client)/./src/app/post3/page.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/post3/page:static/chunks/app/post3/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg": {
+    "(app-client)/./src/app/signin/page.tsx": {
       "*": {
-        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "id": "(sc_client)/./src/app/signin/page.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/signin/page:static/chunks/app/signin/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "id": "(sc_client)/./src/app/signin/page.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/signin/page:static/chunks/app/signin/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+        "id": "(sc_client)/./src/app/signin/page.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./resources/images/hexagon_logo_black.png": {
-      "*": {
-        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
-        "name": "*",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
-        "name": "",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./resources/images/hexagon_logo_black.png",
-        "name": "default",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg": {
-      "*": {
-        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./resources/users/images/jebouche.jpg": {
-      "*": {
-        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./resources/users/images/jebouche.jpg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./resources/users/images/jonascim.jpg": {
-      "*": {
-        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./resources/users/images/jonascim.jpg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./resources/users/images/leklund.jpg": {
-      "*": {
-        "id": "(sc_client)/./resources/users/images/leklund.jpg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./resources/users/images/leklund.jpg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./resources/users/images/leklund.jpg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "defaultHead": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "defaultHead",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "charSet": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "charSet",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "name": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "name",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "content": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "content",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "\"title\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"title\"",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "\"base\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"base\"",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "\"meta\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"meta\"",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "TODO(prateekbh@)": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "TODO(prateekbh@)",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "\"https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"https",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "here": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "here",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "https",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "reduceComponentsToState": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "reduceComponentsToState",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "headManager": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "headManager",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "inAmpMode": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "inAmpMode",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      },
-      "value": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "value",
-        "chunks": [
-          "app/post/layout:static/chunks/app/post/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/components/SignInButton.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/components/SignInButton.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/signin/page:static/chunks/app/signin/page.js"
         ],
         "async": false
       }
@@ -1199,15 +1251,76 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./src/app/unauthorized/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/unauthorized/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/unauthorized/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/unauthorized/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/post2/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/post2/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/post2/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/post2/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/post2/page:static/chunks/app/post2/page.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
+    "/Users/joaonascimento/test/src/app/post/layout": [
+      "static/css/app/post/layout.css"
+    ],
     "/Users/joaonascimento/test/src/app/layout": [
       "static/css/app/layout.css"
     ],
-    "/Users/joaonascimento/test/src/app/post/layout": [
-      "static/css/app/post/layout.css"
+    "/Users/joaonascimento/test/src/app/profiles/layout": [
+      "static/css/app/profiles/layout.css"
+    ],
+    "/Users/joaonascimento/test/src/app/post2/layout": [
+      "static/css/app/post2/layout.css"
+    ],
+    "/Users/joaonascimento/test/src/app/post3/layout": [
+      "static/css/app/post3/layout.css"
     ]
   },
   "clientModules": {
@@ -2907,12 +3020,591 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg": {
+      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg#": {
+      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg#default": {
+      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg": {
+      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg#": {
+      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+      "name": "",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg#default": {
+      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png": {
+      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png#": {
+      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png#default": {
+      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg": {
+      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg#": {
+      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+      "name": "",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg#default": {
+      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg": {
+      "id": "(app-client)/./resources/users/images/jebouche.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg#": {
+      "id": "(app-client)/./resources/users/images/jebouche.jpg",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg#default": {
+      "id": "(app-client)/./resources/users/images/jebouche.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg": {
+      "id": "(app-client)/./resources/users/images/jonascim.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg#": {
+      "id": "(app-client)/./resources/users/images/jonascim.jpg",
+      "name": "",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg#default": {
+      "id": "(app-client)/./resources/users/images/jonascim.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/leklund.jpg": {
+      "id": "(app-client)/./resources/users/images/leklund.jpg",
+      "name": "*",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/leklund.jpg#": {
+      "id": "(app-client)/./resources/users/images/leklund.jpg",
+      "name": "",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/resources/users/images/leklund.jpg#default": {
+      "id": "(app-client)/./resources/users/images/leklund.jpg",
+      "name": "default",
+      "chunks": [
+        "app/post3/page:static/chunks/app/post3/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/post3/layout:static/chunks/app/post3/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx": {
+      "id": "(app-client)/./src/app/components/SignInButton.tsx",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx#": {
+      "id": "(app-client)/./src/app/components/SignInButton.tsx",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx#default": {
+      "id": "(app-client)/./src/app/components/SignInButton.tsx",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
     "/Users/joaonascimento/test/src/app/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
+        "static/css/app/post/layout.css",
         "static/css/app/layout.css",
-        "static/css/app/post/layout.css"
+        "static/css/app/profiles/layout.css",
+        "static/css/app/post2/layout.css",
+        "static/css/app/post3/layout.css"
       ]
     },
     "/Users/joaonascimento/test/src/app/components/Provider.tsx": {
@@ -2939,579 +3631,51 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg": {
-      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/post3/page.tsx": {
+      "id": "(app-client)/./src/app/post3/page.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/post3/page:static/chunks/app/post3/page.js"
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg#": {
-      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/post3/page.tsx#": {
+      "id": "(app-client)/./src/app/post3/page.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/post3/page:static/chunks/app/post3/page.js"
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg#default": {
-      "id": "(app-client)/./resources/images/boba-jaglicic-Mkk_9x42Sbg-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/post3/page.tsx#default": {
+      "id": "(app-client)/./src/app/post3/page.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/post3/page:static/chunks/app/post3/page.js"
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg": {
-      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/signin/page.tsx": {
+      "id": "(app-client)/./src/app/signin/page.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/signin/page:static/chunks/app/signin/page.js"
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg#": {
-      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/signin/page.tsx#": {
+      "id": "(app-client)/./src/app/signin/page.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/signin/page:static/chunks/app/signin/page.js"
       ],
       "async": false
     },
-    "/Users/joaonascimento/test/resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg#default": {
-      "id": "(app-client)/./resources/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg",
+    "/Users/joaonascimento/test/src/app/signin/page.tsx#default": {
+      "id": "(app-client)/./src/app/signin/page.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png": {
-      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png#": {
-      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/hexagon_logo_black.png#default": {
-      "id": "(app-client)/./resources/images/hexagon_logo_black.png",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg": {
-      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg#": {
-      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg#default": {
-      "id": "(app-client)/./resources/images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg": {
-      "id": "(app-client)/./resources/users/images/jebouche.jpg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg#": {
-      "id": "(app-client)/./resources/users/images/jebouche.jpg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jebouche.jpg#default": {
-      "id": "(app-client)/./resources/users/images/jebouche.jpg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg": {
-      "id": "(app-client)/./resources/users/images/jonascim.jpg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg#": {
-      "id": "(app-client)/./resources/users/images/jonascim.jpg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/jonascim.jpg#default": {
-      "id": "(app-client)/./resources/users/images/jonascim.jpg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/leklund.jpg": {
-      "id": "(app-client)/./resources/users/images/leklund.jpg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/leklund.jpg#": {
-      "id": "(app-client)/./resources/users/images/leklund.jpg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/resources/users/images/leklund.jpg#default": {
-      "id": "(app-client)/./resources/users/images/leklund.jpg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/node_modules/next/dist/esm/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/post/layout:static/chunks/app/post/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx": {
-      "id": "(app-client)/./src/app/components/SignInButton.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx#": {
-      "id": "(app-client)/./src/app/components/SignInButton.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/joaonascimento/test/src/app/components/SignInButton.tsx#default": {
-      "id": "(app-client)/./src/app/components/SignInButton.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/signin/page:static/chunks/app/signin/page.js"
       ],
       "async": false
     },
@@ -3536,6 +3700,54 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/unauthorized/page.tsx": {
+      "id": "(app-client)/./src/app/unauthorized/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/unauthorized/page.tsx#": {
+      "id": "(app-client)/./src/app/unauthorized/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/unauthorized/page.tsx#default": {
+      "id": "(app-client)/./src/app/unauthorized/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/unauthorized/page:static/chunks/app/unauthorized/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/post2/page.tsx": {
+      "id": "(app-client)/./src/app/post2/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/post2/page.tsx#": {
+      "id": "(app-client)/./src/app/post2/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joaonascimento/test/src/app/post2/page.tsx#default": {
+      "id": "(app-client)/./src/app/post2/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/post2/page:static/chunks/app/post2/page.js"
       ],
       "async": false
     }

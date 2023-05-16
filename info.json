@@ -4,6 +4,7 @@
       "name": "Lucas",
       "username": "Lucas_42",
       "email": "lucas42@example.com",
+      "img_link": "/resources/users/images/leklund.jpg",
       "address": {
         "street": "42 Avenue",
         "suite": "Apt. 42",
@@ -27,6 +28,7 @@
       "name": "Jenny",
       "username": "Jenny_42",
       "email": "jenny42@example.com",
+      "img_link": "/resources/users/images/jebouche.jpg",
       "address": {
         "street": "42 Street",
         "suite": "Apt. 24",
@@ -50,6 +52,7 @@
       "name": "Joao",
       "username": "Joao_42",
       "email": "joao42@example.com",
+      "img_link": "/resources/users/images/jonascim.jpg",
       "address": {
         "street": "42 Boulevard",
         "suite": "Apt. 84",
