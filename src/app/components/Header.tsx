@@ -1,7 +1,7 @@
-import React from 'react'
-import Image from 'next/image'
-import Link from 'next/link'
-import HXGLogo from '/public/resources/images/hexagon_logo_black.png'
+import React from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
+import HXGLogo from '/public/resources/images/hexagon_logo_black.png';
 
 function Header() {
 	return (
@@ -20,7 +20,7 @@ function Header() {
 			</div>
 			<div className='flex flex-col group cursor-pointer'>
 				<Link
-					href="https://hive.fi/en"
+					href="https://www.hive.fi/en"
 					className='px-5 py-3 text-sm md:text-base bg-orange-400 text-white
 					flext items-center rounded-full text-center group-hover:scale-105
 					transition-transform duration-200 ease-out'
@@ -30,7 +30,7 @@ function Header() {
 			</div>
 		</header>
 
-	)
+	);
 }
 
-export default Header
+export default Header;

@@ -1,4 +1,5 @@
-import Profile from '../../../../info.json'
+import { Profile } from '../../../../typings';
+import Profiles from '../../../../info.json';
 
 type PageProps = {
 	params: {
@@ -7,7 +8,7 @@ type PageProps = {
 };
 
 const fetchProfile = async (profileId: string) => {
-    const profile = Profile[parseInt(profileId) - 1];
+    const profile: Profile = Profiles[parseInt(profileId) - 1];
 	// const profile = Profile.find(profile => profile.id === parseInt(profileId));
     return profile;
 };
@@ -25,4 +26,4 @@ async function ProfilePage({params: { profileId } }: PageProps) {
 	)
 }
 
-export default ProfilePage
+export default ProfilePage;

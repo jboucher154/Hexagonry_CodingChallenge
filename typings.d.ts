@@ -22,3 +22,9 @@ export type Profile = {
 	  bs: string;
 	};
 }
+
+export type PostData = {
+	"postId": number;
+    "title": string;
+	"description": string;
+}

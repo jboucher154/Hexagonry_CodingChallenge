@@ -1,7 +1,7 @@
-import HXGLogo from '/public/resources/images/hexagon_logo_black.png'
+import HXGLogo from '/public/resources/images/hexagon_logo_black.png';
 import Image from 'next/image';
 import React from 'react';
-import {SocialIcon} from 'react-social-icons'
+import { SocialIcon } from 'react-social-icons';
 import SignInButton from './SignInButton';
 
 function Footer() {
