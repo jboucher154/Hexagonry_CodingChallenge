@@ -48,6 +48,7 @@ Project Assests sourced from the follwoing:
 ## Planning Process
 
 - Excalidraw - for planning board (use excalidraw extension for vscode to view)
+
  Initial Plan:
 
  ![](Initial_planning.png)
